@@ -1,35 +1,55 @@
-# v0-innointerior-ui
+# InnoInterior - AI 室内设计平台
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [v0](https://v0.app).
+一个温暖、舒适的 AI 驱动室内设计平台，采用现代简约美学设计。
 
-## Built with v0
+![InnoInterior Preview](/public/images/hero-living-room.jpg)
 
-This repository is linked to a [v0](https://v0.app) project. You can continue developing by visiting the link below -- start new chats to make changes, and v0 will push commits directly to this repo. Every merge to `main` will automatically deploy.
+## 功能特点
 
-[Continue working on v0 →](https://v0.app/chat/projects/prj_jEq5BQ3iNQX1g9A1P2jcOGOlQ2pb)
+- **AI 设计生成** - 通过文字描述生成专属室内设计方案
+- **设计画廊** - 浏览社区分享的精选设计作品
+- **流行趋势** - 发现最新的室内设计风格和趋势
+- **设计师社区** - 关注顶级设计师，获取灵感
+- **互动社区** - 分享、讨论和收藏喜爱的设计
 
-## Getting Started
+## 设计风格
 
-First, run the development server:
+- 温暖中性色调（奶油色、米色、灰褐色）
+- 天然木材纹理
+- 柔和的粉彩点缀（鼠尾草绿、赤陶色）
+- 玻璃拟态效果和大圆角设计
+
+## 技术栈
+
+- **框架**: Next.js 15
+- **样式**: Tailwind CSS 4
+- **字体**: Instrument Serif + Geist
+- **图标**: Lucide React
+
+## 快速开始
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
+# 安装依赖
+pnpm install
+
+# 启动开发服务器
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+在浏览器中打开 [http://localhost:3000](http://localhost:3000) 查看效果。
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 在 v0 上继续开发
 
-## Learn More
+此仓库已连接到 [v0](https://v0.app) 项目。你可以通过以下链接继续开发：
 
-To learn more, take a look at the following resources:
+[在 v0 上继续开发 →](https://v0.app/chat/projects/prj_jEq5BQ3iNQX1g9A1P2jcOGOlQ2pb)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-- [v0 Documentation](https://v0.app/docs) - learn about v0 and how to use it.
+## 了解更多
+
+- [Next.js 文档](https://nextjs.org/docs)
+- [Tailwind CSS 文档](https://tailwindcss.com/docs)
+- [v0 文档](https://v0.app/docs)
+
+---
 
 <a href="https://v0.app/chat/api/kiro/clone/Hannahshy/v0-innointerior-ui" alt="Open in Kiro"><img src="https://pdgvvgmkdvyeydso.public.blob.vercel-storage.com/open%20in%20kiro.svg?sanitize=true" /></a>
