@@ -36,7 +36,7 @@ pnpm install
 pnpm dev
 ```
 
-在浏览器中打开 [http://localhost:3000](http://localhost:3000) 查看效果。
+在浏览器中打开 [http://localhost:3000](http://localhost:3000) or https://v0.app/chat/innointerior-ui-e8JJZFxqszG?ref=6WYRV1 查看效果。
 
 ## 在 v0 上继续开发
 
