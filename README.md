@@ -2,7 +2,10 @@
 
 一个温暖、舒适的 AI 驱动室内设计平台，采用现代简约美学设计。
 
-![InnoInterior Preview](/public/images/hero-living-room.jpg)
+
+https://github.com/user-attachments/assets/3680860c-b069-4622-8bf9-50952b4f31cc
+
+
 
 ## 功能特点
 
